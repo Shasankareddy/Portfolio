@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url("https://i.pinimg.com/originals/af/e2/ba/afe2baacb56c97a2e8b87fc177e94055.jpg");
+    background-image: url(https://i.pinimg.com/originals/af/e2/ba/afe2baacb56c97a2e8b87fc177e94055.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
